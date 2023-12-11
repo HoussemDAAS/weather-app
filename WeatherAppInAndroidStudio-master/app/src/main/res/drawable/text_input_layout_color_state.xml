@@ -1,0 +1,5 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/white" android:state_enabled="true" android:state_focused="true" />
+    <item android:color="@color/textInputLayoutStrokeColor" android:state_enabled="true" />
+    <item android:alpha="0.38" android:color="@color/white" android:state_enabled="false" />
+</selector>
